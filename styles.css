@@ -1,0 +1,78 @@
+
+.container-fluid {
+    margin: 3% 10%;
+    background-color: rgba(4, 4, 61, 0.712) ;;
+}
+.header {
+    margin: 0% 10%;
+    text-align: center;
+    font-family: "Noto Serif";
+    font-size: 4rem;
+    font-weight: bold;
+    color: #cca970;
+    box-shadow: 0 3px 3px 0 #003446;
+    opacity: 0.5;
+}
+
+.pressed {
+    box-shadow: 0 3px 3px 0 #DBEDF3;
+    opacity: 0.5;
+}
+.set {
+    margin-top: 10%;
+    font-family: "Noto serif";
+    text-align: center;
+    font-size: 7rem;
+    font-weight: bold;
+    color: #f59700;
+}
+
+.drum {
+    color: rgb(26, 221, 0);
+    width: 15%;
+    border: solid;
+    border-width: 15%;
+    border-radius: 10%;
+    border-color: black;
+    border-style:groove ;
+}
+
+.w {
+    background-image: url("image/cymbal\ \(1\).jpg");
+    width:166px;
+}
+
+.a {
+    background-image: url("image/high\ tom\ \(1\).png");
+    width:166px;
+}
+.s {
+    background-image: url("image/kick\ bass\ \(1\).jpg");
+    width:166px;
+}
+.d {
+    background-image: url("image/lower\ tom\ \(1\).webp");
+    width:166px;
+}
+.j {
+    background-image: url("image/mid-tom_12x8\ \(1\).jpg");
+    width:166px;
+}
+.k {
+    background-image: url("image/Tom-Tom-Set\ \(1\).webp");
+    width:166px;
+}
+.l {
+    background-image: url("image/mid-tom_12x8\ \(1\).jpg");
+    background-color: #cca970;
+    width:166px;
+}
+
+
+.website {
+    margin-top: 10%;
+    text-align: center;
+    font-size: 1rem;
+    font-family: "Noto Sarif";
+    color: #ffff;
+}
